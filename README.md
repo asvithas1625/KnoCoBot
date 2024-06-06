@@ -1,17 +1,27 @@
 KnoCoBot
+
 KnoCoBot is a smart tutor chatbot designed to assist users in both English and Tamil. It offers vernacular support, video rendering, text-to-speech, resource links, and YouTube video links. This repository contains the code and resources needed to set up and run KnoCoBot.
 
 Table of Contents
+
 Features
+
 Getting Started
+
 Prerequisites
+
 Installation
+
 Usage
+
 Testing
+
 Future Scope
+
 Contributing
+
 License
-Acknowledgements
+
 Features
 Multilingual support: English and Tamil
 Text-to-speech for both languages
@@ -21,6 +31,7 @@ Optional multiple-choice questions (MCQs) for concept reinforcement
 User authentication and session management
 History tracking for questions and answers
 PDF download of answers and resources
+
 Getting Started
 Prerequisites
 Python 3.7+
@@ -36,7 +47,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/knocobot.git
+git clone https://github.com/asvitha1625/knocobot.git
 cd knocobot
 Create and activate a virtual environment:
 
